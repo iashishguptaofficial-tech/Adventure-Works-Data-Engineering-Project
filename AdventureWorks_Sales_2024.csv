@@ -1,0 +1,2 @@
+CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddress,AnnualIncome,TotalChildren,EducationLevel,Occupation,HomeOwner
+11000,MR.,JON,YANG,24323,M,M,jon24@adventure-works.com,"$90,000",2,Bachelors,Professional,Y
